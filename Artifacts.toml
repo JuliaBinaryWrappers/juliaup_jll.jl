@@ -1,77 +1,77 @@
 [[juliaup]]
 arch = "aarch64"
-git-tree-sha1 = "1865d7cb86deccb6b809d8a3f5fd03404145d12a"
+git-tree-sha1 = "086160e7440838ba5d813f9cf1850d18c24e8a18"
 os = "macos"
 
     [[juliaup.download]]
-    sha256 = "8dfc56cb99a065ccca55b9c312826e704f2cc71f10abf81c8d72143b0cd24cae"
-    url = "https://github.com/JuliaBinaryWrappers/juliaup_jll.jl/releases/download/juliaup-v1.18.9+0/juliaup.v1.18.9.aarch64-apple-darwin.tar.gz"
+    sha256 = "d23dd14e01e8119d09497e39faf5dcbf1c1c203b9394a2fb24e4236c7a5feef9"
+    url = "https://github.com/JuliaBinaryWrappers/juliaup_jll.jl/releases/download/juliaup-v1.19.9+0/juliaup.v1.19.9.aarch64-apple-darwin.tar.gz"
 [[juliaup]]
 arch = "aarch64"
-git-tree-sha1 = "d869b4292e1215e2303dd57744c5ffbb076a58fe"
+git-tree-sha1 = "de147e723fe4d10cf10294baa7ff19ad4dc5cc81"
 libc = "glibc"
 os = "linux"
 
     [[juliaup.download]]
-    sha256 = "c6358eff18d9ee471ce1ce7c0355aff77d402c1e8da3643955b932bce56abe7d"
-    url = "https://github.com/JuliaBinaryWrappers/juliaup_jll.jl/releases/download/juliaup-v1.18.9+0/juliaup.v1.18.9.aarch64-linux-gnu.tar.gz"
+    sha256 = "01e24a48c37944e94131354b6c39bf36cd1d6c970c9ca123a49f7c72753beb76"
+    url = "https://github.com/JuliaBinaryWrappers/juliaup_jll.jl/releases/download/juliaup-v1.19.9+0/juliaup.v1.19.9.aarch64-linux-gnu.tar.gz"
 [[juliaup]]
 arch = "aarch64"
-git-tree-sha1 = "78f849548feed597660151794184b341ec1d174f"
+git-tree-sha1 = "8023d59a9644518e25f2888f3e74ccf3dfcccb9a"
 libc = "musl"
 os = "linux"
 
     [[juliaup.download]]
-    sha256 = "fdf2314107f1f73c67a704ebfc6641f916bf844b9874f8c571731e8b92d0d537"
-    url = "https://github.com/JuliaBinaryWrappers/juliaup_jll.jl/releases/download/juliaup-v1.18.9+0/juliaup.v1.18.9.aarch64-linux-musl.tar.gz"
+    sha256 = "3bd3a3b9b56355231e3b89d1fe1a881cf9e30066c6ebdcfed4ddd6dbcd337e57"
+    url = "https://github.com/JuliaBinaryWrappers/juliaup_jll.jl/releases/download/juliaup-v1.19.9+0/juliaup.v1.19.9.aarch64-linux-musl.tar.gz"
 [[juliaup]]
 arch = "i686"
-git-tree-sha1 = "e9915510027c99c48bb1c82bf505f15b85660951"
+git-tree-sha1 = "2fc1beaa2ef5f7df570529e61a236022af2e6c5a"
 libc = "glibc"
 os = "linux"
 
     [[juliaup.download]]
-    sha256 = "417111995227e69b90412d5a01ce635ce61e8fc7c51bd8bc1872136c60c77878"
-    url = "https://github.com/JuliaBinaryWrappers/juliaup_jll.jl/releases/download/juliaup-v1.18.9+0/juliaup.v1.18.9.i686-linux-gnu.tar.gz"
+    sha256 = "9eef6a58bae6b711b03bc02a71dcc57dcd3ff63c9c328a40d4e2773eecfbdea7"
+    url = "https://github.com/JuliaBinaryWrappers/juliaup_jll.jl/releases/download/juliaup-v1.19.9+0/juliaup.v1.19.9.i686-linux-gnu.tar.gz"
 [[juliaup]]
 arch = "x86_64"
-git-tree-sha1 = "24a473fecc5509f694b31c0cac9aa41a0226e696"
+git-tree-sha1 = "35588d9701ae1e8ade333d8aee354fa1858fcbeb"
 os = "macos"
 
     [[juliaup.download]]
-    sha256 = "1969c8b4d19db8885bcd786937ff76140c1c6d8e132fbcd449addf8515d88a27"
-    url = "https://github.com/JuliaBinaryWrappers/juliaup_jll.jl/releases/download/juliaup-v1.18.9+0/juliaup.v1.18.9.x86_64-apple-darwin.tar.gz"
+    sha256 = "c06e2426e90385caf13c977c9ea6435242a276d282a4bf042440f6d1b0d9496b"
+    url = "https://github.com/JuliaBinaryWrappers/juliaup_jll.jl/releases/download/juliaup-v1.19.9+0/juliaup.v1.19.9.x86_64-apple-darwin.tar.gz"
 [[juliaup]]
 arch = "x86_64"
-git-tree-sha1 = "51752a611ec809284e82f0d4d8e9fdcb45f8dcad"
+git-tree-sha1 = "006e2494dedd9699781f897ada8883d7a39d360b"
 libc = "glibc"
 os = "linux"
 
     [[juliaup.download]]
-    sha256 = "4f4789328c0b817d6a2618bb585a0c3056063d55ad34bea95205ebb0d3bf691d"
-    url = "https://github.com/JuliaBinaryWrappers/juliaup_jll.jl/releases/download/juliaup-v1.18.9+0/juliaup.v1.18.9.x86_64-linux-gnu.tar.gz"
+    sha256 = "24a10434cae9a27143d07aec4315d675c99e2c6b59c8ee903f16a560747705ba"
+    url = "https://github.com/JuliaBinaryWrappers/juliaup_jll.jl/releases/download/juliaup-v1.19.9+0/juliaup.v1.19.9.x86_64-linux-gnu.tar.gz"
 [[juliaup]]
 arch = "x86_64"
-git-tree-sha1 = "511c68bc2525d3ac7fcde2662152ef03fbaf5860"
+git-tree-sha1 = "1d81349e87e861e4d312355fd78f4770b3d53b8a"
 libc = "musl"
 os = "linux"
 
     [[juliaup.download]]
-    sha256 = "1ef5795f136eb9f1df487e0eb07e64397a890b653004656c6043ecde285c4508"
-    url = "https://github.com/JuliaBinaryWrappers/juliaup_jll.jl/releases/download/juliaup-v1.18.9+0/juliaup.v1.18.9.x86_64-linux-musl.tar.gz"
+    sha256 = "4d6d4162ab1056c2e7577be69142d65e4ee05f483268b61bede3cec23f1f4c19"
+    url = "https://github.com/JuliaBinaryWrappers/juliaup_jll.jl/releases/download/juliaup-v1.19.9+0/juliaup.v1.19.9.x86_64-linux-musl.tar.gz"
 [[juliaup]]
 arch = "x86_64"
-git-tree-sha1 = "ed592871f610ab238f3276f366d4450f92687ab4"
+git-tree-sha1 = "58912f86bf5ca42d1e357e5e640255e2f3dfe344"
 os = "freebsd"
 
     [[juliaup.download]]
-    sha256 = "3187c450c1677a45442f938a3009a294d8d494f74ebf1f85e634fc46da02347f"
-    url = "https://github.com/JuliaBinaryWrappers/juliaup_jll.jl/releases/download/juliaup-v1.18.9+0/juliaup.v1.18.9.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "c36f96b411b6546070fc015a01e09b1d280db3c1ead376e164a522184d380fcc"
+    url = "https://github.com/JuliaBinaryWrappers/juliaup_jll.jl/releases/download/juliaup-v1.19.9+0/juliaup.v1.19.9.x86_64-unknown-freebsd.tar.gz"
 [[juliaup]]
 arch = "x86_64"
-git-tree-sha1 = "b6c353b6c21d40aa9bafbe9788513c7b8d3f8c3c"
+git-tree-sha1 = "0022b31bdef572135ea68707dd519cd3a08083d0"
 os = "windows"
 
     [[juliaup.download]]
-    sha256 = "7cb5914cb707c526d6774332d8161a6b0b73f115f2422532b7155f993a819f55"
-    url = "https://github.com/JuliaBinaryWrappers/juliaup_jll.jl/releases/download/juliaup-v1.18.9+0/juliaup.v1.18.9.x86_64-w64-mingw32.tar.gz"
+    sha256 = "d3a47c206dc1c904950db66f3cf56ba473dbbbf6856e7d1799b29ee692be4996"
+    url = "https://github.com/JuliaBinaryWrappers/juliaup_jll.jl/releases/download/juliaup-v1.19.9+0/juliaup.v1.19.9.x86_64-w64-mingw32.tar.gz"
